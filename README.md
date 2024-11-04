@@ -1,6 +1,6 @@
-# Hi there, I'm 3usa
+# Hi there, I'm Hassan Serwan
 
-## I'm kurdish devloper
+## Web Application Developer
 
 - 🌱 I’m currently learning everything 
 - 🥅 2024 Goals: Learn more about web3
@@ -19,9 +19,3 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" style="padding-right:10px;" />
 <br />
 <br />
-
-
-<!---
-3USAxSNIPER/3USAxSNIPER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
